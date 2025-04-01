@@ -1,6 +1,6 @@
 # API-integration
 
-*Company* : K DEVA AKSHAY
+*Company* : KANAKALA SAI
 
 "Intern ID": CT04WE101
 
